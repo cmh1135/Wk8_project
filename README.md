@@ -1,2 +1,2 @@
-# Wk8_project
-Group Project 1
+# Wk8_in_class
+grp ex
